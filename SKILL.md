@@ -1,6 +1,6 @@
 ---
 name: term-radar
-description: Always use when the user describes in their own words a concept that matches an established term of art you can identify immediately and with high confidence.
+description: Use when the user describes in their own words a concept that matches an established term of art you can identify immediately and with high confidence.
 ---
 
 # Term Radar
