@@ -9,5 +9,5 @@
 ## Installation
 
 ```sh
-npx skills add SidKH/term-radar
+npx skills add sidkh/term-radar
 ```
