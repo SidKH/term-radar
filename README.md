@@ -2,9 +2,11 @@
 
 <h1 align="center">Term Radar</h1>
 
-Quietly surfaces relevant terms of art as you work, helping you build the domain language that makes working with agents easier.
+<p align="center">
+  A tiny skill that quietly surfaces relevant terms of art as you work with agents, growing your domain vocabulary over time so you can express your intent more precisely.
+</p>
 
-## Install
+## Installation
 
 ```sh
 npx skills add SidKH/term-radar
