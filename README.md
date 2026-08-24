@@ -1,12 +1,16 @@
-https://github.com/user-attachments/assets/fe154908-3b17-4a53-b0b0-ad72122c24d0
+
+
 
 <h1 align="center">Term Radar</h1>
 
 <p align="center">
-  A tiny skill that quietly surfaces relevant terms of art as you work with agents, growing your domain vocabulary over time so you can express your intent more precisely.
+  A tiny skill that surfaces relevant terms of art as you work with agents, growing your domain vocabulary over time
+  <br />
+  &nbsp;
 </p>
 
----
+https://github.com/user-attachments/assets/fe154908-3b17-4a53-b0b0-ad72122c24d0
+
 
 ## How it works
 
