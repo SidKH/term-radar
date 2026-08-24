@@ -1,4 +1,8 @@
-<!-- Demo video goes here -->
+
+
+https://github.com/user-attachments/assets/fe154908-3b17-4a53-b0b0-ad72122c24d0
+
+
 
 <h1 align="center">Term Radar</h1>
 
