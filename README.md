@@ -22,17 +22,7 @@ For example:
 practical knowledge that people can use but struggle to articulate explicitly → **tacit knowledge**
 ```
 
-This skill identifies these concepts in your prompts and adds the relevant term below the agent's response. That way, you naturally learn the established vocabulary for concepts you already describe in your own words.
-
-Output example:
-
-```markdown
-[agent response...]
-
----
-
-Term radar: [**Idempotency**](https://www.google.com/search?tbm=isch&q=Idempotency+%28software+engineering%29)
-```
+This skill identifies these concepts in your prompts and adds the relevant term below the agent's response with the link to Google Images. That way, you naturally learn the established vocabulary for concepts you already describe in your own words.
 
 ## Installation
 
