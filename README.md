@@ -29,4 +29,4 @@ This skill identifies these concepts in your own prompts and adds the relevant t
 npx skills add sidkh/term-radar
 ```
 
-The skill works best when installed globally. It is designed to be unobtrusive and skippable - there are no lengthy descriptions in context. The [entire skill is just 16 lines of markdown](/skill/SKILL.md). 
+The skill works best when installed globally. It is designed to be unobtrusive and skippable - there are no lengthy descriptions in context. [ The entire skill is just 16 lines of markdown](/skill/SKILL.md). 
