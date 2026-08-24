@@ -14,8 +14,7 @@ https://github.com/user-attachments/assets/fe154908-3b17-4a53-b0b0-ad72122c24d0
 
 ## How it works
 
-Every professional domain has many established terms of art that compress lengthy descriptions into a short, clear concept.
-
+Every professional domain has many established terms of art that compress lengthy descriptions into short, clear concepts.
 For example:
 
 ```markdown
