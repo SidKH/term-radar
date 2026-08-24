@@ -21,7 +21,7 @@ For example:
 practical knowledge that people can use but struggle to articulate explicitly → **tacit knowledge**
 ```
 
-This skill identifies these concepts in your prompts and adds the relevant term below the agent's response with the link to Google Images. That way, you naturally learn the established vocabulary for concepts you already describe in your own words.
+This skill identifies these concepts in your own prompts and adds the relevant term below the agent's response with the link to Google Images. That way, you naturally learn the established vocabulary for concepts you already describe in your own words.
 
 ## Installation
 
