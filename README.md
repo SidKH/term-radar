@@ -18,7 +18,7 @@ Every professional domain has many established terms of art that compress length
 For example:
 
 ```markdown
-practical knowledge that people can use but struggle to articulate explicitly → **tacit knowledge**
+practical knowledge that people can use but struggle to articulate explicitly → tacit knowledge
 ```
 
 This skill identifies these concepts in your own prompts and adds the relevant term below the agent's response with the link to Google Images. That way, you naturally learn the established vocabulary for concepts you already describe in your own words.
@@ -28,3 +28,5 @@ This skill identifies these concepts in your own prompts and adds the relevant t
 ```sh
 npx skills add sidkh/term-radar
 ```
+
+It works best when installed globally. The skill is designed to be unobtrusive and skippable - there are no lengthy descriptions in context. The [entire skill is just 16 lines of markdown](/skill/SKILL.md). 
